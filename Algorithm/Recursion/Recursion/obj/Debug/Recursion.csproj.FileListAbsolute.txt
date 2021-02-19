@@ -1,0 +1,7 @@
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Recursion\obj\Debug\Recursion.pdb

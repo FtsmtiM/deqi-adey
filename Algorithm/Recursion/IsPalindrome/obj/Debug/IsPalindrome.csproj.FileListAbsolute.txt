@@ -1,0 +1,7 @@
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\bin\Debug\IsPalindrome.exe.config
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\bin\Debug\IsPalindrome.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\bin\Debug\IsPalindrome.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\obj\Debug\IsPalindrome.csprojAssemblyReference.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\obj\Debug\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\obj\Debug\IsPalindrome.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\IsPalindrome\obj\Debug\IsPalindrome.pdb

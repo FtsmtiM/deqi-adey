@@ -1,0 +1,7 @@
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\bin\Debug\FindMax.exe.config
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\bin\Debug\FindMax.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\bin\Debug\FindMax.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\obj\Debug\FindMax.csproj.CoreCompileInputs.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\obj\Debug\FindMax.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\obj\Debug\FindMax.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\FindMax\obj\Debug\FindMax.csprojAssemblyReference.cache

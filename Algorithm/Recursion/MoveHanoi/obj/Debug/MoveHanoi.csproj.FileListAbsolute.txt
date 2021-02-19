@@ -1,0 +1,7 @@
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\bin\Debug\MoveHanoi.exe.config
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\bin\Debug\MoveHanoi.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\bin\Debug\MoveHanoi.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\obj\Debug\MoveHanoi.csprojAssemblyReference.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\obj\Debug\MoveHanoi.csproj.CoreCompileInputs.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\obj\Debug\MoveHanoi.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\MoveHanoi\obj\Debug\MoveHanoi.pdb

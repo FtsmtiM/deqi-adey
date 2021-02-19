@@ -1,0 +1,6 @@
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Reverse\bin\Debug\Reverse.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Reverse\bin\Debug\Reverse.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Reverse\obj\Debug\Reverse.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\Reverse\obj\Debug\Reverse.pdb

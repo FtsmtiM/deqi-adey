@@ -1,0 +1,7 @@
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\bin\Debug\PrintNaturalNos.exe.config
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\bin\Debug\PrintNaturalNos.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\bin\Debug\PrintNaturalNos.pdb
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\obj\Debug\PrintNaturalNos.csprojAssemblyReference.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\obj\Debug\PrintNaturalNos.csproj.CoreCompileInputs.cache
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\obj\Debug\PrintNaturalNos.exe
+C:\Users\Surface Pro 4\Documents\Coding\Algorithm\Recursion\PrintNaturalNos\obj\Debug\PrintNaturalNos.pdb
